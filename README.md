@@ -2,4 +2,4 @@ First
 =====
  "learning git"
 
-lets learn about git pull
+git pull is done
